@@ -59,7 +59,7 @@ export default function Footer() {
 
           {/* Logo */}
           <div className="flex items-center gap-3">
-            <img src="./assets/logo-gold-3d.jpg" alt="MS Architects" className="h-10 w-10 rounded-full object-cover opacity-70" />
+            <img src="./assets/logo-backremove.png" alt="MS Architects" className="h-10 w-10 rounded-full object-cover opacity-70" />
             <span className="text-[9px] tracking-[0.3em] text-[#8E8E8E] uppercase font-light">MS Architects & Interiors</span>
           </div>
 

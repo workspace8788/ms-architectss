@@ -42,7 +42,7 @@ export default function Navbar() {
           {/* Logo — 3D gold logo */}
           <button onClick={() => go('hero')} className="flex items-center gap-3 group">
             <img
-              src="./assets/logo-gold-3d.jpg"
+              src="./assets/logo-backremove.png"
               alt="MS Architects & Interiors"
               className="h-11 w-11 rounded-full object-cover object-center opacity-95 group-hover:opacity-100 transition-opacity duration-300 ring-1 ring-[#B89B72]/20 group-hover:ring-[#B89B72]/50"
             />

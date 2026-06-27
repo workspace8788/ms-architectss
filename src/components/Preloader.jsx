@@ -38,7 +38,7 @@ export default function Preloader({ onComplete }) {
             className="w-48 h-48 md:w-60 md:h-60 rounded-full overflow-hidden mb-10"
           >
             <img
-              src="./assets/logo-gold-3d.jpg"
+              src="./assets/logo-backremove.png"
               alt="MS Architects & Interiors"
               className="w-full h-full object-cover"
             />
